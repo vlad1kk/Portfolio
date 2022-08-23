@@ -634,9 +634,9 @@ body {
 	letter-spacing: 0.3em;
 }
 .menu-footer__email{
-	padding-bottom: 15px;
+	padding-bottom: 10px;
 	color: #FFFFFF;
-	margin-top: 30px;
+	margin-top: 20px;
 	font-weight: 700;
 	font-size: 25px;
 	line-height: 1.5;
@@ -658,7 +658,7 @@ body {
 }
 .menu-footer__subtitle{
 	color: #FFFFFF;
-	margin-top: 90px;
+	margin-top: 70px;
 	font-weight: 700;
 	font-size: 25px;
 	line-height: 1.5;
@@ -666,7 +666,7 @@ body {
 	text-transform: uppercase;
 }
 .menu-footer__list {
-	padding-top: 15px;
+	padding-top: 10px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -683,8 +683,8 @@ body {
 .footer__end {
 }
 .end-footer {
-	padding-top: 50px;
-	padding-bottom: 40px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
